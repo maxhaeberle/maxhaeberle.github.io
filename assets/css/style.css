@@ -154,7 +154,7 @@ main h2 {
   opacity: 1.0;
 }
 
-/* ---------- individual design: picture floating on the right ---------- */
+/* ---------- individual design: picture floating on the right with a container for both text and the image ---------- */
 
 
 .container {
@@ -168,12 +168,11 @@ img {
 }
 
 .image {
-  flex-basis: 40%
+  flex-basis: 300px;
 }
 
 .text {
-  font-size: 20px;
-  padding-left: 20px;
+  padding-right: 20px;
 }
 
 /* ---------- individual design: table ---------- */
