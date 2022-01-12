@@ -141,6 +141,20 @@ main h2 {
   opacity: 1.0;
 }
 
+/* ---------- individual design: picture floating on the right picture ---------- */
+.img_right {
+  width: 300px;
+  margin: 20px;
+  float: right;
+}
+.img_right img {
+  width: 100%;
+  border-radius: 100px;
+  object-fit: cover;
+  opacity: 1.0;
+}
+
+
 /* ---------- individual design: table ---------- */
 .table {
   width: 100%;
