@@ -98,7 +98,7 @@ main {
     color: #333;
 }
 main a {
-  color: #111;
+  color: #4109fd;
   text-decoration: none;
 }
 main a:hover {
@@ -136,12 +136,12 @@ main h2 {
 }
 .profile img {
   width: 100%;
-  border-radius: 100px;
+  border-radius: 50px;
   object-fit: cover;
   opacity: 1.0;
 }
 
-/* ---------- individual design: picture floating on the right picture ---------- */
+/* ---------- individual design: picture floating on the right ---------- */
 .img_right {
   width: 300px;
   margin: 20px;
@@ -149,7 +149,7 @@ main h2 {
 }
 .img_right img {
   width: 100%;
-  border-radius: 100px;
+  border-radius: 15px;
   object-fit: cover;
   opacity: 1.0;
 }
