@@ -141,18 +141,7 @@ main h2 {
   opacity: 1.0;
 }
 
-/* ---------- individual design: wider profile picture ---------- */
-.profile2 {
-  width: 500px;
-  margin: 20px;
-  float: left;
-}
-.profile2 img {
-  width: 100%;
-  border-radius: 50px;
-  object-fit: cover;
-  opacity: 1.0;
-}
+
 
 
 /* ---------- individual design: picture floating on the right ---------- */
